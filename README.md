@@ -24,4 +24,5 @@ docker run -p 8080:8080 -e PROFILE=prd fiap-checkpoint1
 
 ## Membros
 RM96158 - [Pedro Lucca Lamark](https://github.com/PedroLamark)
-RM - [Luiz Macilia](https://github.com/LuizMacilia)
+
+RM95818 - [Luiz Macilia](https://github.com/LuizMacilia)
